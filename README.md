@@ -1,4 +1,3 @@
-# childrens-book-translation-lab
 
 # Children's Book Translation Lab
 
